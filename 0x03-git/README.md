@@ -1,1 +1,2 @@
-My second readme
+alx file edited.
+js directory removed alone with its content.
